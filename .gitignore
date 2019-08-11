@@ -10,3 +10,4 @@ deps/
 exampleProject
 testData
 .DS_Store
+output/
